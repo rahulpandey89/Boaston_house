@@ -1,0 +1,15 @@
+07/03/2020  ------- work Details
+
+
+1- Create Project structure on local host and git hub
+2- Update my profile in upwork
+3- New format Resume(Consider one column resume )
+4- Cover Page
+5- Linkdin update and Naukri Update
+6- Add atleast 5 project in github
+
+
+Sunday----
+
+Complete all ml model with project
+2-- try to understand how can we start work on kaggle and participate in different Hackathon.
